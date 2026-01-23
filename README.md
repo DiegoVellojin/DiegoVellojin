@@ -1,5 +1,7 @@
-# Hi there, I'm Diego Vellojin. 👋
-### Computer Engineering Student | Full Stack Developer
+# Hi there, I'm Diego Vellojin 👋
+### Computer Engineering Student @ UCAB 🇻🇪 | Full Stack Developer
+
+I am currently pursuing my degree in **Computer Engineering** at **Universidad Católica Andrés Bello (UCAB)**.
 
 I am a versatile software engineer in the making, passionate about building solutions across all platforms. From **mobile apps** and **dynamic websites** to **desktop software** and **video games**, I love turning complex problems into elegant code.
 
