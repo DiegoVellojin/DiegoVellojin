@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I build software end to end, from the database schema and REST API to the web or mobile client and the server it runs on. Right now I develop a **tax monitoring and territorial analytics platform** that Venezuelan municipal governments use in production.
+I build software end to end, from the database schema and REST API to the web or mobile client and the server it runs on. Right now I build web applications with data dashboards and territorial maps.
 
 - 🔭 **Currently:** Full Stack Developer at **TecnoRed** (Python · React · PostgreSQL · Docker)
 - 🎓 **Education:** Computer Engineering at **Universidad Católica Andrés Bello (UCAB)**. Coursework complete, writing my thesis.
@@ -26,11 +26,7 @@ I build software end to end, from the database schema and REST API to the web or
 ## 💼 Experience
 
 **Full Stack Developer · TecnoRed** · *Jun 2026 – Present*
-- Built and maintain a tax monitoring and territorial visualization platform for **6 Venezuelan municipalities**: 3 in production, 3 in QA and development.
-- **FastAPI** REST API and **React 19 + Vite** SPA with **Leaflet** maps and **Recharts** dashboards over the municipal ERP's **PostgreSQL** data: tax debt, collections, delinquency rankings and revenue by geographic sector.
-- Turned official cadastral maps (DWG, PDF and OpenStreetMap) into georeferenced sector polygons for the maps.
-- Individual user accounts with roles, **JWT + bcrypt** authentication and access logging.
-- Containerized deployments (**Docker / Podman + nginx**) on on-premise Linux servers behind Apache reverse proxies, with separate QA, staging and production environments.
+- Build web applications with data dashboards and territorial maps (Python · React · PostgreSQL · Docker).
 
 **Software Development Intern · TecnoRed** (UCAB professional internship) · *Apr 2026 – May 2026*
 - Designed and built [**MatchDay**](https://github.com/DiegoVellojin/matchday-frontend), a mobile app for organizing amateur sports matches (football, padel, tennis, basketball) with matchmaking, payments and results.
@@ -45,8 +41,8 @@ I build software end to end, from the database schema and REST API to the web or
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **Municipal Tax Monitoring** <br><sub>🔒 Client work · Private</sub> | Tax and territorial analytics platform for municipal governments: debt and collection dashboards, contributor maps by sector, delinquency rankings. | FastAPI · React · PostgreSQL · Leaflet · Docker |
 | **MatchDay** <br><sub>📱 [App](https://github.com/DiegoVellojin/matchday-frontend) · ⚙️ [API](https://github.com/DiegoVellojin/matchday-backend)</sub> | Mobile app to organize, find and play amateur sports matches, with payments and live results. | Flutter · Dart · FastAPI · PostgreSQL · Clean Architecture |
+| [**Green Quiz**](https://github.com/Green-Team-UCAB/green_frontend) <br><sub>👥 Team of 3 · UCAB</sub> | Real-time multiplayer quiz platform (Kahoot-style) for the Software Development course. I built the discovery, library, groups and reports modules and the AI quiz generator with Gemini. | Flutter · BLoC · Socket.IO · Gemini · BDD |
 | [**Éter Siniestro**](https://github.com/DiegoVellojin/Eter-Siniestro) <br><sub>🎮 [Play the demo](https://mrbytezz.itch.io/eter-siniestro)</sub> | 2D pixel-art action platformer with Souls-lite combat, built for the Unity Game Development course at UCAB. | Unity 6 · C# |
 
 ---
