@@ -33,7 +33,7 @@ I build software end to end, from the database schema and REST API to the web or
 - Containerized deployments (**Docker / Podman + nginx**) on on-premise Linux servers behind Apache reverse proxies, with separate QA, staging and production environments.
 
 **Software Development Intern · TecnoRed** (UCAB professional internship) · *Apr 2026 – May 2026*
-- Designed and built **MatchDay**, a mobile app for organizing amateur sports matches (football, padel, tennis, basketball) with matchmaking, payments and results.
+- Designed and built [**MatchDay**](https://github.com/DiegoVellojin/matchday-frontend), a mobile app for organizing amateur sports matches (football, padel, tennis, basketball) with matchmaking, payments and results.
 - **Flutter** client and **FastAPI + PostgreSQL** backend, both following a strict 4-layer **Clean Architecture** with dependency injection and typed error handling (`Either<Failure, T>`).
 
 **Data Analyst · Liga de Fútbol Pipo Rossi** · *Sep 2022 – Present*
@@ -46,7 +46,7 @@ I build software end to end, from the database schema and REST API to the web or
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **Municipal Tax Monitoring** <br><sub>🔒 Client work · Private</sub> | Tax and territorial analytics platform for municipal governments: debt and collection dashboards, contributor maps by sector, delinquency rankings. | FastAPI · React · PostgreSQL · Leaflet · Docker |
-| **MatchDay** <br><sub>🔒 Internship · Private</sub> | Mobile app to organize, find and play amateur sports matches, with payments and live results. | Flutter · Dart · FastAPI · PostgreSQL · Clean Architecture |
+| **MatchDay** <br><sub>📱 [App](https://github.com/DiegoVellojin/matchday-frontend) · ⚙️ [API](https://github.com/DiegoVellojin/matchday-backend)</sub> | Mobile app to organize, find and play amateur sports matches, with payments and live results. | Flutter · Dart · FastAPI · PostgreSQL · Clean Architecture |
 | [**Éter Siniestro**](https://github.com/DiegoVellojin/Eter-Siniestro) <br><sub>🎮 [Play the demo](https://mrbytezz.itch.io/eter-siniestro)</sub> | 2D pixel-art action platformer with Souls-lite combat, built for the Unity Game Development course at UCAB. | Unity 6 · C# |
 
 ---
